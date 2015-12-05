@@ -1,0 +1,1 @@
+[' a ', ' able ', ' about ', 'an ', ' am ', ' an ', ' and ', ' are ', ' as ', ' at ', ' be ', ' by ', ' for ', ' from ', ' he ', ' her ', ' hers ', ' him ', ' his ', ' in ', ' is ', ' it ', ' its ', ' of ', ' on ', ' or ', ' since ', ' than ', ' that ', ' the ', ' their ', ' them ', ' then ', ' there ', ' these ',  ' this ', ' to ']
